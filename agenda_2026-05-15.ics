@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SharpCut//SharpCut Barbearia//PT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:agenda-2026-05-15-14@sharpcut
+DTSTAMP:20260513T201026Z
+DTSTART;TZID=Atlantic/Azores:20260515T093000
+DTEND;TZID=Atlantic/Azores:20260515T100000
+SUMMARY:Marcação - Hugo - Grafica | Corte | 09:30-10:00
+DESCRIPTION:Cliente: Hugo - Grafica\nServiço: Corte\nProfissional: João Peres\nData: 15/05/2026\nHora: 09:30 — 10:00
+LOCATION:A Barbearia
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
